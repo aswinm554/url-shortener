@@ -4,8 +4,8 @@ A production-ready URL shortener platform built as a developer API. Shorten URLs
 
 ## Live Demo
 
-- **API Base URL:** `https://your-app.onrender.com`
-- **Swagger Docs:** `https://your-app.onrender.com/api-docs`
+- **API Base URL:** `https://url-shortener-j0be.onrender.com`
+- **Swagger Docs:** `https://url-shortener-j0be.onrender.com/api-docs`
 
 ---
 
